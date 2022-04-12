@@ -1,0 +1,3 @@
+G:/project/C/Memory free space/cmake-build-debug/CMakeFiles/Memory_free_space.dir
+G:/project/C/Memory free space/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Memory free space/cmake-build-debug/CMakeFiles/rebuild_cache.dir
